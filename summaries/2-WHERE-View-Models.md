@@ -41,7 +41,7 @@ By the end of this lecture, you should:
    - The lecture also discusses complementary viewpoints that help refine the overall understanding of architecture. These viewpoints include:
      - **Business vs. Technical Viewpoint**: Differentiates components that contribute directly to business outcomes from those that contribute indirectly.
      - **Baseline vs. Target Viewpoint**: Distinguishes between current architecture and future state architecture.
-     - **Architecture Mode Viewpoint**: Differentiates perspectives during design-time, run-time, and manage-time.
+     - **Architecture Mode Viewpoint**: Differentiates perspectives during design-time (during implementation), run-time (during execution), and manage-time (reffers to common devops practices).
 
 7. **Architecture Artifacts and Descriptions**
    - **Architecture artifacts** are tangible representations of architecture, such as diagrams, lists, or matrices, used to document and communicate design decisions.
